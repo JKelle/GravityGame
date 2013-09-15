@@ -1,0 +1,13 @@
+Level data
+
+player x, y, w, h
+100 50 10 10
+
+goal x, y, w, h
+400 100 20 20
+
+maxV r
+100
+
+planets x, y, r
+600 100 50
